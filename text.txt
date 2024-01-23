@@ -1,6 +1,4 @@
 git 
 status
 game
-none
-black
-red 
+line
