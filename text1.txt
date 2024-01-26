@@ -1,2 +1,4 @@
 gming
 blue
+red
+yellow
