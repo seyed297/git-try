@@ -1,9 +1,0 @@
-git 
-status
-more
-game
-game
-line
-left
-rigt
-text
